@@ -1,0 +1,18 @@
+
+
+.flex {
+  display: flex;
+  background-color: yellow;
+.flex {
+  display: flex;
+  flex-direction: row;
+  background-color: yellow;
+}
+
+.box{
+ background-color: blue;
+ margin-right: 20px;
+ font-size: 32px;
+ width: 100px;
+ height: 100px;  
+}
