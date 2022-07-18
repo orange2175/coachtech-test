@@ -60,13 +60,13 @@ a{
   width:70px;
   height:30px;
   margin-bottom:10px;
- 
+  display: flex;
  
  }
  
 
  .header{
-  display: flex;
+ 
 }
 
 .header_list{
@@ -79,7 +79,7 @@ a{
  
  
  
- .header_box{
+ .header_box2{
    
    
    margin-right:20px;
